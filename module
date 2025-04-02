@@ -1,0 +1,12 @@
+import os
+
+current_dir=os.getcwd()
+result=os.listdir(current_dir)
+print(result)
+
+import math
+result=math.sqrt(2)
+print(result)
+
+#これら以外にも様々な公式ドキュメントがある
+#https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEpiS3RKVHp2Y2ZiQ2hwREc5aUFWYkhlVWR6QXxBQ3Jtc0tubmhUT2lORnVfUVZlWVQyVG5VRWREMXlLS1M4bXZIaUdTRGlUWnR3ZFBDUHhJWUdOcmVVcDNvLUhVVU40WndkMHVoT0FRYVpCTUtISmVrYVFhUUxGc3g0aHlsVUtrTUkyVU1MbFVaRVJZUTFsT21oZw&q=https%3A%2F%2Fdocs.python.org%2Fja%2F3%2Flibrary%2Findex.html&v=aXnB3Cm__-o

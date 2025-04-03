@@ -42,4 +42,6 @@ msf=MagicSwordFighterClass()
 msf.cast_spell()
 msf.attack_with_sword()
 
+x=2
+print(x)
 

@@ -17,6 +17,9 @@ res=requests.get('https://zipcloud.ibsnet.co.jp/api/search',
                   headers={'Authorization':'xxxxx'})
 # xxxxxは取得したキーのこと？
 
+#駅スパートAPI, open Weather Map API,Vision API(有料）,Translation,ケンオールAPI（有料）
+# Exchange Rates API(有料)、ALPHA VANTAGE(株)
+
 
 
 
